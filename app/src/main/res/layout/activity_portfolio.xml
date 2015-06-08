@@ -50,7 +50,6 @@
         android:layout_marginBottom="@dimen/abc_button_padding_vertical_material"
         android:background="#F08C35"
         android:contentDescription="Football Scores"
-        android:clickable="false"
         android:onClick="toastMessage" />
 
     <Button
